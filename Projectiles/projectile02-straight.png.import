@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/projectile02-straight.png-f3f7640526d08f09917b1f1047586a01.stex"
+path="res://.import/projectile02-straight.png-fdf2137e8f1cc1fdd4a96067cb36884e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Projectiles/projectile02-straight.png"
-dest_files=[ "res://.import/projectile02-straight.png-f3f7640526d08f09917b1f1047586a01.stex" ]
+source_file="res://Projectiles/projectile02-straight.png"
+dest_files=[ "res://.import/projectile02-straight.png-fdf2137e8f1cc1fdd4a96067cb36884e.stex" ]
 
 [params]
 

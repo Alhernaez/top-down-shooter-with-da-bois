@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/male01-crouch-2.png-27cabfb8b46c2ce52c17fb40406e165a.stex"
+path="res://.import/male01-crouch-2.png-0a3e1bd9b6762b303fd4505079b69954.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Male 01/male01-crouch-2.png"
-dest_files=[ "res://.import/male01-crouch-2.png-27cabfb8b46c2ce52c17fb40406e165a.stex" ]
+source_file="res://Male 01/male01-crouch-2.png"
+dest_files=[ "res://.import/male01-crouch-2.png-0a3e1bd9b6762b303fd4505079b69954.stex" ]
 
 [params]
 

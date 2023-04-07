@@ -1,13 +1,18 @@
-[gd_scene load_steps=2 format=2]
+[gd_scene load_steps=3 format=2]
 
 [ext_resource path="res://player/male_player.tscn" type="PackedScene" id=1]
+[ext_resource path="res://world.gd" type="Script" id=3]
 
 [node name="world" type="Node2D"]
+script = ExtResource( 3 )
 
 [node name="player" parent="." instance=ExtResource( 1 )]
-position = Vector2( 616, 336 )
+position = Vector2( 224, 291 )
 
-[node name="CollisionShape2D" type="StaticBody2D" parent="."]
+[node name="Position2D" type="Position2D" parent="player"]
 
-[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="CollisionShape2D"]
-polygon = PoolVector2Array( 0, 0, 0, 600, 1024, 600, 1024, 0, 960, 64, 1008, 384, 952, 552, 920, 480, 728, 496, 760, 552, 464, 552, 528, 496, 240, 496, 336, 536, 64, 544, 184, 408, 56, 360, 184, 328, 64, 248, 184, 240, 272, 120, 160, 40, 64, 0 )
+[node name="Timer" type="Timer" parent="."]
+one_shot = true
+autostart = true
+
+[connection signal="timeout" from="Timer" to="." method="_on_Timer_timeout"]

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/projectile04-diag.png-bc9d2daed85d2aa7f21def2a9672bd6a.stex"
+path="res://.import/projectile04-diag.png-cb1eaba492d7af31a638bfc85f497f41.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Projectiles/projectile04-diag.png"
-dest_files=[ "res://.import/projectile04-diag.png-bc9d2daed85d2aa7f21def2a9672bd6a.stex" ]
+source_file="res://Projectiles/projectile04-diag.png"
+dest_files=[ "res://.import/projectile04-diag.png-cb1eaba492d7af31a638bfc85f497f41.stex" ]
 
 [params]
 

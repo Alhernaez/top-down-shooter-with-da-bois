@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/male01-diagdown-4.png-ce650b515e62fcf45edee437f48053ee.stex"
+path="res://.import/male01-diagdown-4.png-08aed1b88d5b9dec2f149241def28d75.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Male 01/male01-diagdown-4.png"
-dest_files=[ "res://.import/male01-diagdown-4.png-ce650b515e62fcf45edee437f48053ee.stex" ]
+source_file="res://Male 01/male01-diagdown-4.png"
+dest_files=[ "res://.import/male01-diagdown-4.png-08aed1b88d5b9dec2f149241def28d75.stex" ]
 
 [params]
 

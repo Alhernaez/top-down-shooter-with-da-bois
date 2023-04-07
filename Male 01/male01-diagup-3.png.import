@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/male01-diagup-3.png-381a040c5b7d25f7881416f3f143c5a0.stex"
+path="res://.import/male01-diagup-3.png-a841f10e4b44ce06c18f2949387b0ca1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Male 01/male01-diagup-3.png"
-dest_files=[ "res://.import/male01-diagup-3.png-381a040c5b7d25f7881416f3f143c5a0.stex" ]
+source_file="res://Male 01/male01-diagup-3.png"
+dest_files=[ "res://.import/male01-diagup-3.png-a841f10e4b44ce06c18f2949387b0ca1.stex" ]
 
 [params]
 
